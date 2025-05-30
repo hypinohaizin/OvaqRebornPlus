@@ -44,7 +44,7 @@
 
 
 ## v1.0.8 2025/05/27
-##Module ChangeLog
+### Module ChangeLog
 - Add Crasher
 - Add NewChunks
 - Add AutoMount
@@ -59,7 +59,7 @@
 - Add ChorusInvincibility
 - Add AntiLevitation
 - あとはまぁまぁな改善
-## Command Changelog
+### Command Changelog
 - Add Coords
 - Add History
 - Add Regear
