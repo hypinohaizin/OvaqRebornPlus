@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "ovaqreborn-plus",
+  "version": "${version}",
+  "name": "OvaqPlus",
+  "description": "Premium Japanese UtilityMod",
+  "authors": ["h_ypi"],
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.shoreline.client.OvaqMod"
+    ]
+  },
+  "accessWidener": "ovaqplus.accesswidener",
+  "mixins": [
+    "mixins.ovaqplus.json"
+  ],
+  "depends": {
+    "java": ">=17",
+    "fabricloader": ">=0.15.7",
+    "minecraft": "1.20.4"
+  }
+}

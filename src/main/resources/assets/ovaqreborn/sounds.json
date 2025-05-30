@@ -1,0 +1,45 @@
+{
+  "gui_click": {
+    "sounds": [
+      {
+        "name": "ovaqreborn:gui_click",
+        "stream": false
+      }
+    ]
+  },
+  "twitter": {
+    "sounds": [
+      {
+        "name": "ovaqreborn:twitter",
+        "stream": false
+      }
+    ]
+  },
+
+  "ios": {
+    "sounds": [
+      {
+        "name": "ovaqreborn:ios",
+        "stream": false
+      }
+    ]
+  },
+
+  "discord": {
+    "sounds": [
+      {
+        "name": "ovaqreborn:discord",
+        "stream": false
+      }
+    ]
+  },
+
+  "steam": {
+    "sounds": [
+      {
+        "name": "ovaqreborn:steam",
+        "stream": false
+      }
+    ]
+  }
+}
