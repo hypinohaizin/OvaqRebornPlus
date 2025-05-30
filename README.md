@@ -1,5 +1,5 @@
 ## OvaqRebornPlus Development has been discontinued
-### Minecraft Utility Mod
+## Baritone is required.
 
 やり残したことは数個ありますがもういいです もうこれに対する情熱もありません
 
