@@ -23,6 +23,9 @@ Only personal use of this software is permitted. Commercial use, modification, o
 Unauthorized copying, modification, or redistribution of this software is prohibited. disclaimer:
 
 This software is provided “as is” without warranty of any kind. The copyright holder assumes no responsibility for any damages resulting from its use.
+## ScreenShots
+7![スクリーンショット 2025-05-30 235932](https://github.com/user-attachments/assets/2b1d7a1d-a474-49a6-b79f-e35f3f99aa6e)
+![スクリーンショット 2025-05-31 000004](https://github.com/user-attachments/assets/d9db2a2b-97c4-424e-921b-f8b076c6b132)
 
 ## Credits
 - [Alien](https://github.com/iM4dCat/Alien)
