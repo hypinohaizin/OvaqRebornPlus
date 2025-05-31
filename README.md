@@ -14,14 +14,12 @@
 ## License
 Copyright (c) [2024-2025] [Team Tikuwa]
 
-Use of this software is subject to the following terms and conditions
+Use of this software is subject to the following terms and conditions:
 
-permitted items:
+Permitted items:
+Only personal use of this software is permitted. Commercial use, modification, or redistribution is prohibited.
 
-Only personal use of this software is permitted. Commercial use, modification, or redistribution is prohibited. prohibited items:
-
-Unauthorized copying, modification, or redistribution of this software is prohibited. disclaimer:
-
+Disclaimer:
 This software is provided “as is” without warranty of any kind. The copyright holder assumes no responsibility for any damages resulting from its use.
 ## ScreenShots
 7![スクリーンショット 2025-05-30 235932](https://github.com/user-attachments/assets/2b1d7a1d-a474-49a6-b79f-e35f3f99aa6e)
