@@ -94,7 +94,6 @@ public class ModuleManager {
                 // Misc
                 new AntiAFKModule(),
                 new AntiAimModule(),
-                new AntiCoordLeakModule(),
                 new ChatSuffixModule(),
                 new AntiSpamModule(),
                 new AntiVanishModule(),

@@ -90,7 +90,6 @@ public class Modules {
     // Misc
     public static AntiAFKModule ANTI_AFK;
     public static AntiAimModule ANTI_AIM;
-    public static AntiCoordLeakModule ANTI_COORD_LEAK;
     public static AntiSpamModule ANTI_SPAM;
     public static AntiVanishModule ANTI_VANISH;
     public static AutoAnvilRenameModule AUTO_ANVIL_RENAME;
@@ -308,7 +307,6 @@ public class Modules {
             //MISC
             ANTI_AFK = (AntiAFKModule) getRegisteredModule("antiafk-module");
             ANTI_AIM = (AntiAimModule) getRegisteredModule("antiaim-module");
-            ANTI_COORD_LEAK = (AntiCoordLeakModule) getRegisteredModule("anticoordleak-module");
             ANTI_SPAM = (AntiSpamModule) getRegisteredModule("antispam-module");
             ANTI_VANISH = (AntiVanishModule)  getRegisteredModule("antivanish-module");
             AUTO_ANVIL_RENAME = (AutoAnvilRenameModule) getRegisteredModule("autoanvilrename-module");

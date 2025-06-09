@@ -17,11 +17,11 @@ public class BaritoneChecker {
             frame.setAlwaysOnTop(true);
 
             JOptionPane optionPane = new JOptionPane(
-                    "Baritoneが導入されていません。\nこのクライアントはBaritoneが必要です",
+                    "Baritone is not installed.\nThis client require Baritone",
                     JOptionPane.WARNING_MESSAGE, JOptionPane.DEFAULT_OPTION, null, new Object[]{}, null
             );
 
-            JButton downloadButton = new JButton("Baritoneをダウンロード");
+            JButton downloadButton = new JButton("Download Baritone");
             downloadButton.addActionListener(e -> {
                 try {
                     Desktop.getDesktop().browse(new URI(BARITONE_DOWNLOAD_URL));
@@ -30,7 +30,7 @@ public class BaritoneChecker {
                 }
             });
 
-            JButton closeButton = new JButton("閉じる");
+            JButton closeButton = new JButton("Close");
             closeButton.addActionListener(e -> frame.dispose());
 
             optionPane.setOptions(new Object[]{downloadButton, closeButton});
@@ -41,7 +41,7 @@ public class BaritoneChecker {
             dialog.setLocationRelativeTo(null);
             dialog.setVisible(true);
 
-            throw new IllegalStateException("Baritoneが読み込まれていません。");
+            throw new IllegalStateException("Baritone is not loaded.");
         }
     }
 }
